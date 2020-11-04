@@ -35,8 +35,14 @@ b) 查找对应关系（键值对应） map字典
 16 3Sum Closest
 454 4Sum 2
 49 Group Anagrams
-
 447 Number of Boomerangs
 149 Max Points on a Line
+
+219 Contains Duplicate 2
+217 Contains Duplicate
+220 Contains Duplicate 3
+
+
+
 
 
