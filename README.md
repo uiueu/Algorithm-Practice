@@ -17,5 +17,26 @@ Two Pointer
 438 Find All Anagrams in a String
 76 Minimum Window Substring
 
+查找问题
+a）查找有无 set集合
+b) 查找对应关系（键值对应） map字典
+349 Intersection of Two Arrays
+350 Intersection of Two Arrays
+242 Valid Anagram
+202 Happy Number
+290 Word Pattern
+205 Isomorphic Strings
+451 Sort Characters by Frequency
+
+查找表
+1 Two Sum
+15 3Sum
+18 4Sum
+16 3Sum Closest
+454 4Sum 2
+49 Group Anagrams
+
+447 Number of Boomerangs
+149 Max Points on a Line
 
 
